@@ -1,0 +1,14 @@
+.card-header {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #a73922;
+}
+.login-btn {
+    border-color: #a73922;
+    color: #a73922;
+    width: 100px;
+    &:hover {
+        background-color: #a73922;
+        color: white;
+    }
+}
